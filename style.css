@@ -2,7 +2,9 @@ p{
     color: aqua;
     font: size 30px;
  }
-
+p:hover{
+   color: blanchedalmond;
+}
  h1:hover{
     color:red;
 
